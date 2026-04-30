@@ -1,1 +1,1 @@
-# birdclassifier2
+Bird Classification and Sound Detection System is an AI-based application that identifies bird species using images and audio recordings. It uses deep learning models (CNN/RNN) for accurate prediction and provides real-time results through a web interface, supporting wildlife monitoring and biodiversity conservation.
